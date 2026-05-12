@@ -9,7 +9,7 @@ Hoy utilizo SQL, Python y herramientas de visualización para encontrar solucion
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Habilidades tecnológicas
 * **Lenguajes:** Python (Pandas, NumPy, Seaborn), SQL.
 * **Herramientas:** Excel Avanzado, Power BI, Tableau.
 * **Sistemas:** Manejo de CRM y ERP (ECAC, BES).
