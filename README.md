@@ -22,7 +22,7 @@ Hoy utilizo SQL, Python y herramientas de visualización para encontrar solucion
 * **Mi Análisis:** Analicé tasas de retención (Cohortes) a 7, 14, 21 y 28 días. Identifiqué un "agujero" masivo del **65%** de pérdida de usuarios entre la selección del producto (`select_item`) y la adición al carrito (`add_to_cart`).
 * **Conclusión:** Los primeros 14 días son críticos; si el usuario no encuentra valor rápido, se pierde. Propuse campañas de incentivos personalizadas por país para frenar la fuga antes del primer mes.
 * **Herramientas:** SQL / Google Sheets (Análisis de Cohortes y Funnel).
-
+<img width="828" height="327" alt="Captura de pantalla 2026-05-11 a la(s) 8 48 31 p m" src="https://github.com/user-attachments/assets/73f529c8-cd34-4ebf-9b60-9651fa0361cd" />
 ---
 
 ### 2. Movilidad Urbana y Productividad Económica (Python)
@@ -31,6 +31,10 @@ Hoy utilizo SQL, Python y herramientas de visualización para encontrar solucion
 * **Conclusión:** Se validó que la infraestructura vial influye directamente en la productividad económica local. 
 * **Nota:** *Este proyecto cuenta con revisión y aprobación técnica (Feedback de Juanma incluido en el notebook).*
 * **Herramientas:** Python (Jupyter Notebook), Pandas, Análisis Estadístico.
+
+
+<img width="674" height="322" alt="Captura de pantalla 2026-05-11 a la(s) 8 46 48 p m" src="https://github.com/user-attachments/assets/5eb7b4c9-d3c9-48a6-bf6f-13495aa96f90" />
+
 
 ---
 
