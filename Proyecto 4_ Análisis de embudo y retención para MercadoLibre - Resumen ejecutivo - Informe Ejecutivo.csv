@@ -1,0 +1,18 @@
+,,,,
+,,Context,Hallazgo,Implicación
+,"Entre el [01/01/2025] y el [08/31/2025], ¿cuál es la tasa de conversión entre cada etapa clave del embudo.
+
+🔹 ¿En qué paso se observa la mayor caída porcentual de usuarios?
+🔹 ¿Cómo varía esta pérdida por país (country)?","Me enfoqué en mapear todo el recorrido del usuario, desde que entra a la plataforma hasta que concreta la compra. Analicé los datos de los primeros ocho meses de 2025 para identificar exactamente en qué puntos del proceso estamos perdiendo el interés de la gente.","Lo más crítico que encontré es que tenemos un 'agujero' enorme entre el interés inicial y la intención de compra. Casi el 77% de los usuarios elige un producto (select_item), pero solo el 11% se anima a meterlo al carrito. Perder más del 65% del tráfico en ese paso es nuestra mayor fuga.","Esto me sugiere que nuestra página de producto no está convenciendo lo suficiente, ya sea por el precio, la falta de confianza o la UX. Por otro lado, el 0% de ventas en tres países indica que hay un bloqueo real, probablemente técnico en los pagos o de altos costos en los envíos, que está matando la transacción final"
+,"¿Qué tan bien retenemos a los usuarios a lo largo del tiempo?
+
+🔹 Para los usuarios que se registraron entre el [01/01/2025] y el [06/01/2025], ¿cuál es la tasa de retención en D7, D14, D21, D28?
+🔹 *¿Cómo se comporta la retención agrupados por país (`country`)?
+","Analicé el comportamiento de los usuarios nuevos que se registraron en el primer semestre del año. El objetivo fue medir cuántos de ellos siguen activos a los 7, 14, 21 y 28 días para entender qué tan leales son a la plataforma","La gran mayoría de los usuarios abandona la plataforma después de la primera semana (D7). Al llegar al D28, casi nadie sigue activo. Además, hay países donde la gente es mucho más fiel que en otros, donde el abandono es total a los 14 días.","Esto me confirma que los primeros 7 a 14 días son críticos; si el usuario no encuentra valor rápido, lo perdemos. Necesitamos campañas de incentivos (como cupones o notificaciones) personalizadas por país para frenar esa fuga antes de que lleguen al primer mes"
+,,,,
+,,,,
+,,,,
+,Reflexión personal,,,
+,"- ¿Qué etapa mejorarías primero?
+","La transición de seleccionar producto a agregar al carrito. Es el punto donde más gente perdemos (pasamos de 77% a 11%). Si logramos que ese grupo se decida por la compra, las ventas suben solas sin tener que gastar más en traer usuarios nuevos.",,
+,- ¿Qué aprendiste sobre el comportamiento del usuario?,"Aprendí que entrar a la app no es lo mismo que querer comprar. Tenemos muchísima gente mirando productos, pero el filtro real es el carrito; ahí es donde se nos cae casi todo el mundo.",,
