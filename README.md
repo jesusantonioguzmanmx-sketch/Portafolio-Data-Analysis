@@ -1,6 +1,6 @@
 # Portafolio-Data-Analysis
 Portafolio de proyectos de Análisis de Datos (SQL, Python)
-# Portafolio de Análisis de Datos | [JESUS ANTONIO GUZMAN SALAZAR]
+# Portafolio de Análisis de Datos - JESUS ANTONIO GUZMAN SALAZAR
 
 ## 🧑‍💻 Sobre mí
 Analista de Datos con más de 9 años de trayectoria en entornos operativos y comerciales. Mi experiencia en Telcel y como emprendedor me permite entender no solo los números, sino el impacto real que tienen en el negocio y en el cliente. 
