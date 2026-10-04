@@ -1,43 +1,30 @@
-# Portafolio-Data-Analysis
-Portafolio de proyectos de Análisis de Datos (SQL, Python)
-# Portafolio de Análisis de Datos - JESUS ANTONIO GUZMAN SALAZAR
+# Portafolio de Análisis de Datos 📊
 
-## 🧑‍💻 Sobre mí
-Analista de Datos con más de 9 años de trayectoria en entornos operativos y comerciales. Mi experiencia en Telcel y como emprendedor me permite entender no solo los números, sino el impacto real que tienen en el negocio y en el cliente. 
-
-Hoy utilizo SQL, Python y herramientas de visualización para encontrar soluciones que optimicen procesos y aumenten la rentabilidad.
+¡Hola! Soy **Jesus Antonio Guzman Salazar**, Analista de Datos con experiencia en entornos operativos y comerciales. Combino mi visión de negocio con habilidades técnicas en SQL, Python y visualización para transformar datos en decisiones estratégicas.
 
 ---
 
-## 🛠 Habilidades tecnológicas
-* **Lenguajes:** Python (Pandas, NumPy, Seaborn), SQL.
-* **Herramientas:** Excel Avanzado, Power BI, Tableau.
-* **Sistemas:** Manejo de CRM y ERP (ECAC, BES).
+## 🛠️ Habilidades Tecnológicas
+
+* **Lenguajes y Consultas:** Python (Pandas, NumPy, Seaborn), SQL.
+* **Herramientas de BI y Análisis:** Excel Avanzado, Power BI, Tableau.
+* **Sistemas y Gestión:** Manejo de CRM y ERP (ECAC, BES).
 
 ---
 
 ## 🚀 Proyectos Destacados
-### 1. Análisis de Embudo y Retención - MercadoLibre
-* **Contexto:** Mapeo del recorrido del usuario para detectar puntos críticos de abandono y medir la lealtad de usuarios nuevos en LATAM (2025).
-* **Mi Análisis:** Analicé tasas de retención (Cohortes) a 7, 14, 21 y 28 días. Identifiqué un "agujero" masivo del **65%** de pérdida de usuarios entre la selección del producto (`select_item`) y la adición al carrito (`add_to_cart`).
-* **Conclusión:** Los primeros 14 días son críticos; si el usuario no encuentra valor rápido, se pierde. Propuse campañas de incentivos personalizadas por país para frenar la fuga antes del primer mes.
-* **Herramientas:** SQL / Google Sheets (Análisis de Cohortes y Funnel).
-<img width="828" height="327" alt="Captura de pantalla 2026-05-11 a la(s) 8 48 31 p m" src="https://github.com/user-attachments/assets/73f529c8-cd34-4ebf-9b60-9651fa0361cd" />
----
 
-### 2. Movilidad Urbana y Productividad Económica (Python)
+### 1. 🛒 Análisis de Embudo y Retención para MercadoLibre
+* **Contexto:** Mapeo del recorrido del usuario (desde la primera visita hasta la compra) para detectar puntos críticos de abandono y medir la lealtad en LATAM (2025).
+* **Hallazgos Clave:** Identificación de un "agujero" masivo del 65% de pérdida de usuarios entre la selección del producto (`select_item`) y la adición al carrito (`add_to_cart`). Análisis de retención a 7, 14, 21 y 28 días (`D7`, `D14`, `D21`, `D28`).
+* **Herramientas:** SQL avanzado (CTEs, segmentación por país, cohortes), Google Sheets / Informes ejecutivos (C-F-I).
+* [📂 Ver carpeta del proyecto](./proyecto-mercado-libre/)
+
+### 2. 🚗 Movilidad Urbana y Productividad Económica (Python)
 * **Contexto:** Evaluación de la correlación entre la congestión vehicular y el crecimiento del PIB en ciudades de Latinoamérica para priorizar inversiones en infraestructura.
-* **Mi Análisis:** Procesamiento de más de 50,000 registros con **Pandas**, limpieza de datos y creación de visualizaciones estadísticas (EDA) con **Seaborn** y **Matplotlib**.
-* **Conclusión:** Se validó que la infraestructura vial influye directamente en la productividad económica local. 
-* **Nota:** *Este proyecto cuenta con revisión y aprobación técnica (Feedback de Juanma incluido en el notebook).*
+* **Hallazgos Clave:** Procesamiento de más de 50,000 registros mediante Pandas, limpieza de datos y creación de visualizaciones estadísticas (EDA) con Seaborn y Matplotlib.
 * **Herramientas:** Python (Jupyter Notebook), Pandas, Análisis Estadístico.
-
-
-<img width="674" height="322" alt="Captura de pantalla 2026-05-11 a la(s) 8 46 48 p m" src="https://github.com/user-attachments/assets/5eb7b4c9-d3c9-48a6-bf6f-13495aa96f90" />
-
+* [📂 Ver carpeta del proyecto](./proyecto-movilidad-urbana/)
 
 ---
-
-## 📩 Contacto
-* [LinkedIn](https://www.linkedin.com/in/antonioguzmans/)
-* Email: [jesusantonioguzman.mx@gmail.com]
+*📫 **Autor:** Jesus Antonio Guzman Salazar | Estudiante de Análisis de Datos en TripleTen*
