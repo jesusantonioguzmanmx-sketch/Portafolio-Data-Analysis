@@ -8,19 +8,30 @@ Evaluación integral del rendimiento financiero y operativo del servicio RappiPl
 - **SQL:** Consultas avanzadas para el análisis del embudo de conversión (*funnel*) y retención por cohortes.
 - **Python (Pandas):** Validación de datos y cálculos agregados de ventas por categoría.
 
-## 📈 Resultado / Impacto y Métricas Principales
+## ⚙️ Metodología
+El desarrollo del proyecto siguió un flujo de análisis estructurado:
+1. **Procesamiento y Validación (Python):** Limpieza inicial, validación de esquemas y transformaciones de datos en notebooks de Jupyter.
+2. **Modelado y Consultas Avanzadas (SQL):** Extracción de métricas clave, diseño de consultas para el embudo de conversión (*funnel conversion*) y análisis de comportamiento de usuarios.
+3. **Modelado Dimensional y Visualización (Power BI):** Construcción del esquema en estrella, implementación de lógica de negocio mediante medidas DAX y desarrollo del tablero interactivo ejecutivo.
+
+## 📈 Resultado / Impacto
 - **Revenue Total:** $51.95M
 - **Profit Neto Consolidado:** $5.97M (tras deducir $2.87M de gasto publicitario y costos unitarios).
 - **Categoría Líder:** Electrónica representó el mayor aporte de utilidad bruta ($5.0M).
 
 ## 📊 Evidencias Visuales del Dashboard
-*(Aquí puedes arrastrar y soltar 2 capturas de pantalla de tu tablero de Power BI, por ejemplo, el Overview Ejecutivo y la vista de Detalle)*
 - **Overview Ejecutivo:**
-  `![Overview Ejecutivo](./capturas/overview_ejecutivo.png)`
+  ![Overview Ejecutivo]
+
+  <img width="1161" height="624" alt="image" src="https://github.com/user-attachments/assets/c8f8d637-522f-499b-b7db-fa14cad8dd68" />
+
+
 - **Vista de Detalle y Rentabilidad:**
-  `![Detalle Rentabilidad](./capturas/detalle_rentabilidad.png)`
+  ![Detalle Rentabilidad]
+
+  <img width="991" height="643" alt="image" src="https://github.com/user-attachments/assets/a518bcff-8c1a-433c-b8db-6610fc4d2a62" />
+
 
 ## 📂 Archivos en este Repositorio
 - `Analisis_RappiPlus.ipynb`: Libreta con consultas SQL y procesamiento de datos.
-- `Dashboard_RappiPlus.pbix`: Archivo interactivo de Power BI ([Descargar archivo .pbix desde Google Drive](https://tu-enlace-de-drive.com)).
-- `/capturas`: Imágenes del tablero (Overview Ejecutivo y Detalle).
+- [`Dashboard_RappiPlus.pbix`](https://drive.google.com/drive/folders/1p9lkHw5cjJU0v4IZrs7LZriuWm9VzoAT?usp=drive_link): Archivo interactivo de Power BI.
