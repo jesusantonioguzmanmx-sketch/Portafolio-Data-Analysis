@@ -19,7 +19,9 @@ Evaluar la relación entre el desarrollo económico de las ciudades (medido a tr
   ![Comparativa Tráfico y Economía](./capturas/comparacion_trafico.png)
 
 - **Análisis de Congestión (`jams_delay`):** Identifica los rangos habituales de retraso y los puntos críticos del sistema.
-  ![Boxplot Congestión](./capturas/boxplot_congestion.png)
+  ![Boxplot Congestión](<img width="799" height="498" alt="Unknown" src="https://github.com/user-attachments/assets/6ec3b7dc-07f4-4154-a791-1b59ba1c7329" />
+
+)
 
 ## 💡 4. Conclusiones y Decisiones de Negocio
 - **Desacoplamiento del Tráfico:** Se observa que un mayor PIB per cápita no siempre se traduce linealmente en menor congestión; ciudades con alto desarrollo económico enfrentan severos retos de saturación vehicular.
