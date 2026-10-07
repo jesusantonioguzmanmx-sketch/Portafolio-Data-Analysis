@@ -26,7 +26,7 @@
 * **Herramientas:** Python (Jupyter Notebook), Pandas, Análisis Estadístico.
 * [📂 Ver carpeta del proyecto](movilidad-urbana/)
 
-3. 📊 Análisis de Desempeño Comercial y Rentabilidad – RappiPlus (Power BI, SQL, Python)
+### 3. 📊 Análisis de Desempeño Comercial y Rentabilidad – RappiPlus (Power BI, SQL, Python)
 
 * **Contexto:** Evaluación integral del rendimiento financiero y operativo del servicio RappiPlus (semestre 2025), analizando más de 177,000 pedidos para determinar la rentabilidad real del negocio tras descontar costos de producto, promociones y gasto publicitario.
 * **Hallazgos Clave:** 
