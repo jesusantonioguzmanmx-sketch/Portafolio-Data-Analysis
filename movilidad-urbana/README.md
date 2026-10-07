@@ -15,21 +15,21 @@ Evaluar la relación entre el desarrollo económico de las ciudades (medido a tr
 - **Distribución del PIB per Cápita:** Permite observar la concentración de la riqueza y la dispersión económica en la región.
   ![Histograma PIB]
 
-  (<img width="850" height="554" alt="Copia de Unknown" src="https://github.com/user-attachments/assets/0ec196ad-cc5d-44ba-a9c6-cd406e5af329" />
-)
+  <img width="850" height="554" alt="Copia de Unknown" src="https://github.com/user-attachments/assets/0ec196ad-cc5d-44ba-a9c6-cd406e5af329" />
+
 
 - **Comparativa Directa (Tráfico vs. Economía):** Muestra cómo se comportan los minutos de retraso frente a la capacidad económica de cada área metropolitana.
   ![Comparativa Tráfico y Economía]
 
-  (<img width="1189" height="590" alt="Copia de Unknown 2" src="https://github.com/user-attachments/assets/979dc718-5303-4648-bb8a-76a1920052e3" />
-)
+  <img width="1189" height="590" alt="Copia de Unknown 2" src="https://github.com/user-attachments/assets/979dc718-5303-4648-bb8a-76a1920052e3" />
+
 
 - **Análisis de Congestión (`jams_delay`):** Identifica los rangos habituales de retraso y los puntos críticos del sistema.
   ![Boxplot Congestión]
 
-  (<img width="799" height="498" alt="Unknown" src="https://github.com/user-attachments/assets/6ec3b7dc-07f4-4154-a791-1b59ba1c7329" />
+  <img width="799" height="498" alt="Unknown" src="https://github.com/user-attachments/assets/6ec3b7dc-07f4-4154-a791-1b59ba1c7329" />
 
-)
+
 
 ## 💡 4. Conclusiones y Decisiones de Negocio
 - **Desacoplamiento del Tráfico:** Se observa que un mayor PIB per cápita no siempre se traduce linealmente en menor congestión; ciudades con alto desarrollo económico enfrentan severos retos de saturación vehicular.
