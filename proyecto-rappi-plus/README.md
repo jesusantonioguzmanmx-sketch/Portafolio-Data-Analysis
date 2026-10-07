@@ -17,3 +17,6 @@ Evaluación integral del rendimiento financiero y operativo del servicio RappiPl
 - `Analisis_RappiPlus.ipynb`: Libreta con consultas SQL y procesamiento de datos.
 - `Dashboard_RappiPlus.pbix`: Archivo interactivo de Power BI.
 - `/capturas`: Imágenes del tablero (*Overview Ejecutivo* y *Detalle*).
+
+
+- 📊 **Dashboard Interactivo:** [Descargar archivo .pbix desde Google Drive](https://drive.google.com/drive/folders/1p9lkHw5cjJU0v4IZrs7LZriuWm9VzoAT?usp=share_link)
