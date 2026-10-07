@@ -21,13 +21,13 @@ El desarrollo del proyecto siguió un flujo de análisis estructurado:
 
 ## 📊 Evidencias Visuales del Dashboard
 - **Overview Ejecutivo:**
-  ![Overview Ejecutivo]
+  Overview Ejecutivo
 
   <img width="1161" height="624" alt="image" src="https://github.com/user-attachments/assets/c8f8d637-522f-499b-b7db-fa14cad8dd68" />
 
 
 - **Vista de Detalle y Rentabilidad:**
-  ![Detalle Rentabilidad]
+  Detalle Rentabilidad
 
   <img width="991" height="643" alt="image" src="https://github.com/user-attachments/assets/a518bcff-8c1a-433c-b8db-6610fc4d2a62" />
 
